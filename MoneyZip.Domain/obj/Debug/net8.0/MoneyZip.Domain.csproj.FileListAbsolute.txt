@@ -1,0 +1,13 @@
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\bin\Debug\net8.0\MoneyZip.Domain.deps.json
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\bin\Debug\net8.0\MoneyZip.Domain.dll
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\bin\Debug\net8.0\MoneyZip.Domain.pdb
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.AssemblyInfoInputs.cache
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.AssemblyInfo.cs
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.sourcelink.json
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.dll
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\refint\MoneyZip.Domain.dll
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.pdb
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\ref\MoneyZip.Domain.dll
+C:\Users\wcosta\OneDrive - Quatá Gestão de Recursos LTDA\Documentos\WLC\Cursos\Arch\MoneyZip\MoneyZip.Domain\obj\Debug\net8.0\MoneyZip.Domain.csproj.AssemblyReference.cache

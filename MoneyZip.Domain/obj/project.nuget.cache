@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSXbaM4DUDk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\MoneyZip.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcosta\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

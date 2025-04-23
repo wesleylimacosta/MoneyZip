@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyZip.Tests", "MoneyZip.Tests\MoneyZip.Tests.csproj", "{0E7BB7FC-AD28-4FC4-8BA2-7E797D47BDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyZip.Domain", "MoneyZip.Domain\MoneyZip.Domain.csproj", "{A2211525-4909-4438-97EE-2740F947BD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyZip.Application", "MoneyZip.Application\MoneyZip.Application.csproj", "{8A74333D-059D-4022-9EB9-E5E3E983E7D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyZip.Infrastructure", "MoneyZip.Infrastructure\MoneyZip.Infrastructure.csproj", "{C6194844-589B-4A52-AD4E-8B610F764E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyZip.Presentation", "MoneyZip.Presentation\MoneyZip.Presentation.csproj", "{197CEC66-C536-4D46-B0A7-C517AF9D59F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7BB7FC-AD28-4FC4-8BA2-7E797D47BDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7BB7FC-AD28-4FC4-8BA2-7E797D47BDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7BB7FC-AD28-4FC4-8BA2-7E797D47BDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7BB7FC-AD28-4FC4-8BA2-7E797D47BDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2211525-4909-4438-97EE-2740F947BD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2211525-4909-4438-97EE-2740F947BD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2211525-4909-4438-97EE-2740F947BD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2211525-4909-4438-97EE-2740F947BD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A74333D-059D-4022-9EB9-E5E3E983E7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A74333D-059D-4022-9EB9-E5E3E983E7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A74333D-059D-4022-9EB9-E5E3E983E7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A74333D-059D-4022-9EB9-E5E3E983E7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6194844-589B-4A52-AD4E-8B610F764E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6194844-589B-4A52-AD4E-8B610F764E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6194844-589B-4A52-AD4E-8B610F764E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6194844-589B-4A52-AD4E-8B610F764E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197CEC66-C536-4D46-B0A7-C517AF9D59F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197CEC66-C536-4D46-B0A7-C517AF9D59F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197CEC66-C536-4D46-B0A7-C517AF9D59F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197CEC66-C536-4D46-B0A7-C517AF9D59F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\MoneyZip.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\MoneyZip.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\MoneyZip.Domain.csproj",
+        "projectName": "MoneyZip.Domain",
+        "projectPath": "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\MoneyZip.Domain.csproj",
+        "packagesPath": "C:\\Users\\wcosta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wcosta\\OneDrive - Quatá Gestão de Recursos LTDA\\Documentos\\WLC\\Cursos\\Arch\\MoneyZip\\MoneyZip.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcosta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
